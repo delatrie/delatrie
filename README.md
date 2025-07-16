@@ -1,4 +1,4 @@
-## Hi there 👋
+Email for communication: [maksim.m.stepanov@gmail.com](mailto:maksim.m.stepanov@gmail.com)
 
 <!--
 **delatrie/delatrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
